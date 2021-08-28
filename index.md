@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# I like _Star Wars_
+1. **Keanu Reeves** is the best
+2. `This is some fancy lookin' font`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
